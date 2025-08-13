@@ -129,3 +129,10 @@ background-color: orange;
     main {
         margin-top: 93px; /* Adjusted for larger header */
     }
+
+    /* Large devices */
+    @media (min-width: 992px) {
+        #menu a:hover {
+            border-bottom: 1px solid #3a3a3a;
+        }
+    }

@@ -118,3 +118,14 @@ background-color: orange;
     .nav-toggle-label {
         display: none;
     }
+
+    #logo {
+        font-size: 200%;
+        line-height: 75px;
+        margin: 0 0 0.5rem;
+    }
+
+    /* Main content */
+    main {
+        margin-top: 93px; /* Adjusted for larger header */
+    }
